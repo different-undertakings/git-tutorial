@@ -28,6 +28,3 @@ git reset HEAD <filename>
 git checkout <filename>   - to remove added file changes
 
 ------------
-
-
-
