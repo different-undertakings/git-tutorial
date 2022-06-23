@@ -1,8 +1,9 @@
 <!-- Author: <username>, <email, phone> -->
 <html>
   <head>
+    <!-- no style -->
   </head>
   <body>
-    <h1>Hello, World, </h1>
+    <h1>Hello, World, life is great </h1>
   </body>
 </html>
