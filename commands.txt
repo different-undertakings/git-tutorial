@@ -9,6 +9,7 @@ git checkout <commit hash> - can enter in state for this commit and change somet
 ------------
 ^ - means parent for
 
-git tag v1
-v1^ === v1~1 means previous tag
-git checkout v1^ return to previous commit when tag was based on
+git tag v1       - create a tag
+git tag          - list of all tags
+v1^ ===          - v1~1 means previous tag
+git checkout v1^ - return to previous commit when tag was based on
