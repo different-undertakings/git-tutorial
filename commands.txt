@@ -17,4 +17,4 @@ git checkout v1^ - return to previous commit when tag was based on
 ------------
 modified some file <filename>, make git checkout <filename> to have not changed file state
 
-git checkout commands.txt - works when file not commited
+git checkout commands.txt - works when file not added
