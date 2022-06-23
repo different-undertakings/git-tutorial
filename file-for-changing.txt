@@ -1,4 +1,4 @@
-<!-- Author: <username>, <email, phone> -->
+<!-- Author: <username>, <email> -->
 <html>
   <head>
     <!-- no style -->
