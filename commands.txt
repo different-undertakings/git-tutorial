@@ -1,0 +1,5 @@
+------------
+git log
+git log --pretty=oneline
+git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
+git log --pretty=format:'%h %s' --graph
