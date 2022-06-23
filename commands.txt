@@ -34,4 +34,9 @@ git revert HEAD           - create new commit and remove commit
 git tag to-revert
 git reset --hard <commit hash>
 
+apply other changes for commit
 ------------
+git add <filename>
+git commit -m <message>
+git add <filename>
+git commit --amend -m <message>
