@@ -45,3 +45,8 @@ git structure
 ------------
 ls -c .git/ -1 --color
 cat .git/HEAD   - points to current branch name
+
+merge vs rebase
+------------
+git checkout feat/git-structure
+git rebase main                  - branch main is a part of feat/git-structure commits history. This makes chain of commits in linear way
