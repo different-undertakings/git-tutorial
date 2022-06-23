@@ -1,8 +1,7 @@
 <!-- Author: <username>, <email, message> -->
 <html>
   <head>
-    <!-- no style -->
-    <!-- some types -->
+    <!-- no style, means -->
   </head>
   <body>
     <h1>Hello, World </h1>
