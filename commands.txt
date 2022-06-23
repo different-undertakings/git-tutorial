@@ -1,7 +1,7 @@
 logging
 ------------
 git log
-git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short
+git log --pretty=format:"%h %ad | %s%d [%an]" --graph --date=short --all
 git log --pretty=format:'%h %s' --graph
 
 enter into commit hash
