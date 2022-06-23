@@ -27,4 +27,8 @@ git add <filename>
 git reset HEAD <filename>
 git checkout <filename>   - to remove added file changes
 
+git add <filename>
+git commit -m <message>
+git revert HEAD           - create new commit and remove commit
+
 ------------
