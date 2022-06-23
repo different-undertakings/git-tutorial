@@ -11,3 +11,4 @@ git checkout <commit hash> - can enter in state for this commit and change somet
 
 git tag v1
 v1^ === v1~1 means previous tag
+git checkout v1^ return to previous commit when tag was based on
