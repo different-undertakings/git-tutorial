@@ -1,4 +1,4 @@
-<!-- Author: <>, <email> -->
+<!-- Author: <username>, <email> -->
 <html>
   <head>
   </head>
