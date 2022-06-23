@@ -40,3 +40,8 @@ git add <filename>
 git commit -m <message>
 git add <filename>
 git commit --amend -m <message>
+
+git structure
+------------
+ls -c .git/ -1 --color
+cat .git/HEAD   - points to current branch name
