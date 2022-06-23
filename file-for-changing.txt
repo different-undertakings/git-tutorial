@@ -2,6 +2,7 @@
 <html>
   <head>
     <!-- no style -->
+    <!-- some types -->
   </head>
   <body>
     <h1>Hello, World, life is great </h1>
